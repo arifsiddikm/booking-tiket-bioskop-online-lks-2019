@@ -1,0 +1,41 @@
+@font-face {
+	font-family: "roboto";
+	src:url(fonts/roboto.otf);
+}
+@font-face {
+	font-family: "coffea";
+	src:url(fonts/simple.ttf);
+}
+*{margin: 0;padding: 0;}
+a,button{cursor: url(image/cursor_tangan.png),auto;}
+::selection{background: black;color: white;}
+html,body {
+cursor: url(https://lh6.googleusercontent.com/proxy/C0LuJhtCDrvYqLDGUK7Y5z0vc_vo9RVDHuGcnNINhFbr2wFXqLmsmHOUsgYYj6AUfuan1qPpnf8RKWfOiJ4Eh5xsImvR1WsZ=s0-d), 
+ url(https://lh5.googleusercontent.com/proxy/WuZe2BNE5UANmXS2dy-5ZcLAwM3mytN1b-QXTXstwd59Nt2sR4G4HiZ50yH4elGuM8sj3fILODZPkscr-tyCTk2tEeAUU6w7=s0-d), 
+ progress !important;font-family: roboto;font-size: 18px;font-weight: normal;}
+a,button,input{outline:none;font-family: roboto;}
+a{color: black;}
+a:hover {color: red;}
+:hover {transition: all 200ms;}
+
+
+
+a.merput {color: red;}
+a.merput:hover {color: blue;}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 718px) {}
+@media screen and (max-width: 320px) {}
+
+
+
+
+
+
+

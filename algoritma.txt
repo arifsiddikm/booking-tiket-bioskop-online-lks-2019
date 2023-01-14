@@ -1,0 +1,6 @@
+Project Tikets :
+Website pembelian tiket bioskop online sederhana
+halaman home nampilkan semua data film seperti biasa normal tanpa login
+detail film melihat detail film dan video trailer
+harus login jika ingin memesan tiket
+
